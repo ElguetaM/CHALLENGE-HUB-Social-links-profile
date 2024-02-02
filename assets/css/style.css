@@ -30,6 +30,9 @@ img {
 .btn {
   background-color: hsl(0, 0%, 20%);
   color: hsl(0, 0%, 100%);
+  font-size: 12px;
+  font-weight: 700;
+  padding: 10px;
 }
 
 h1 {
